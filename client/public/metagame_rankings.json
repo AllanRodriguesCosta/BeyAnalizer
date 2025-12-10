@@ -1,0 +1,196 @@
+{
+  "bladeRankings": {
+    "ranking1": {
+      "name": "Ranking 1: A-B-C (Comunidade Geral)",
+      "tiers": {
+        "A": ["Wizard Rod", "Soar Phoenix", "Silver Wolf", "Cobalt Dragoon", "Tyrano Beat", "Aero Pegasus", "Hover Wyvern", "Shark Scale", "Pegasus Blast", "Emperor Might"],
+        "B": ["Dran Buster", "Impact Drake", "Cobalt Drake", "Golem Rock", "Knight Mail", "Samurai Saber", "Roar Tyrano", "Scorpio Spear", "Whale Wave", "Sting Unicorn", "Keel Shark", "Samurai Caliber", "Sol Eclipse", "Wolf Hunt", "Clock Mirage"],
+        "C_High": ["Sword Dran", "Dagger Dran", "Scythe Incendio", "Chain Incencio", "Arrow Wizard", "Leon Claw", "Phoenix Feather", "Weiss Tiger", "Crimson Garuda", "Talon Ptera", "Black Shell", "Goat Tackle", "Lightning L-Drago", "Shelter Drake", "Samurai Steel", "Tricera Press"],
+        "C_Low": ["Dranzer", "Drigger", "Draciel", "Dragoon", "Rock Leon", "Storm Pegasus", "Gale Wyvern", "Rhino Horn", "Sphinx Cowl", "Shark Gill", "Victory Valkirie", "Knight Helm", "Knight Shield"]
+      }
+    },
+    "ranking2": {
+      "name": "Ranking 2: X-S+-S-A+-A-B+-B-C+-C-D+ (Competitivo Avançado)",
+      "tiers": {
+        "X": ["Shark Scale", "Wizard Rod", "Aero Pegasus", "Pegasus Blast"],
+        "S+": ["Clock Mirage", "Soar Phoenix", "Silver Wolf", "Emperor Might", "Hover Wyvern", "Cobalt Dragoon"],
+        "S": ["Scorpio Spear", "Sol Eclipse", "Dran Buster", "Impact Drake", "Tyrano Beat"],
+        "A+": ["Samurai Saber", "Samurai Caliber", "Whale Wave", "Knight Mail", "Cerberus Flame", "Whale Flame"],
+        "A": ["Arc Wizard", "Brave Dran", "Keel Shark", "Cobalt Drake", "Roar Tyrano", "Wolf Hunt"],
+        "B+": ["Tricera Press", "Fox Brush", "Reaper Incencio", "Reaper Rhino", "Dark Perseu", "Golem Rock"],
+        "B": ["Scythe Incencio", "Knight Shield", "Phoenix Rudder", "Sword Dran", "Chain Incendio"],
+        "C+": ["Sting Unicorn", "Leon Crest", "Dagger Dran", "Crimson Garuda", "Hells Hammer"],
+        "C": ["Arrow Wizard", "Shelter Drake", "Gill Shark", "Ghost Circle", "Weiss Tiger", "Viper Tail"],
+        "D+": ["Dark Shell", "Phoenix Feather", "Gale Wyvern", "Talon Ptera", "Goat Tackle", "Knight Helm"],
+        "D": ["Sphinx Cowl", "Samurai Steel", "Leon Claw", "Shinobi Shadow", "Rhino Horn"]
+      }
+    },
+    "ranking3": {
+      "name": "Ranking 3: S-A-B-C-D-F (Tier Maker - Profissional)",
+      "tiers": {
+        "S": ["Wizard Rod", "Cobalt Dragoon", "Soar Phoenix", "Impact Drake", "Aero Pegasus"],
+        "A": ["Tyrano Beat", "Silver Wolf", "Whale Wave", "Dran Buster", "Knight Mail", "Samurai Saber"],
+        "B": ["Leon Crest", "Keel Shark", "Scythe Incencio", "Sword Dran", "Roar Tyrano", "Dagger Dran"],
+        "C": ["Crimson Garuda", "Weiss Tiger", "Cobalt Drake", "Sting Unicorn", "Chain Incencio", "Talon Ptera"],
+        "D": ["Hells Hammer", "Leon Claw", "Tusk Mammoth", "Ghost Circle", "Shinobi Shadow", "Knight Helm", "Arrow Wizard", "Dark Shell"],
+        "F": ["Phoenix Rudder", "Samurai Steel", "Sphinx Cowl", "Rhino Horn"]
+      }
+    }
+  },
+  "ratchetRankings": {
+    "S+": [
+      {"name": "9-60", "contactPoints": 9, "height": 60, "heightLevel": 2, "type": "Balanced", "description": "Soar Phoenix - 9 pontos de contato, excelente para stamina e defesa"},
+      {"name": "3-60", "contactPoints": 3, "height": 60, "heightLevel": 2, "type": "Attack", "description": "Keel Shark - 3 pontos de contato, off-balance para ataque"},
+      {"name": "1-60", "contactPoints": 1, "height": 60, "heightLevel": 2, "type": "Attack", "description": "Off-balance extremo, máximo ataque"},
+      {"name": "7-60", "contactPoints": 7, "height": 60, "heightLevel": 2, "type": "Balanced", "description": "Cobalt Dragoon - 7 pontos de contato, versátil"}
+    ],
+    "S": [
+      {"name": "5-60", "contactPoints": 5, "height": 60, "heightLevel": 2, "type": "Balanced", "description": "Sting Unicorn - 5 pontos de contato, balanceado"},
+      {"name": "3-80", "contactPoints": 3, "height": 80, "heightLevel": 4, "type": "Defense", "description": "Helm Knight - altura alta para defesa"},
+      {"name": "3-80", "contactPoints": 3, "height": 80, "heightLevel": 4, "type": "Defense", "description": "Horn Rhino - altura alta para defesa"},
+      {"name": "4-80", "contactPoints": 4, "height": 80, "heightLevel": 4, "type": "Defense", "description": "Arrow Wizard - altura alta com 4 pontos"}
+    ],
+    "A": [
+      {"name": "4-55", "contactPoints": 4, "height": 55, "heightLevel": 1, "type": "Balanced", "description": "Arc Wizard - altura baixa, 4 pontos de contato"},
+      {"name": "6-60", "contactPoints": 6, "height": 60, "heightLevel": 2, "type": "Balanced", "description": "Courage Dran - 6 pontos, bom balanceamento"},
+      {"name": "4-70", "contactPoints": 4, "height": 70, "heightLevel": 3, "type": "Defense", "description": "Reaper Incendio - altura média-alta"},
+      {"name": "6-80", "contactPoints": 6, "height": 80, "heightLevel": 4, "type": "Defense", "description": "Dark Perseus - altura alta com 6 pontos"}
+    ]
+  },
+  "bitRankings": {
+    "S+": [
+      {"name": "LR", "type": "Stamina", "description": "Low Rush - Excelente para stamina, reduz fricção"},
+      {"name": "R", "type": "Balanced", "description": "Rush - Versátil, bom para múltiplos tipos"},
+      {"name": "O", "type": "Defense", "description": "Orb - Defesa superior, estabilidade"},
+      {"name": "FB", "type": "Attack", "description": "Flat Ball - Ataque versátil"}
+    ],
+    "S": [
+      {"name": "LO", "type": "Defense", "description": "Low Orb - Defesa com baixa altura"},
+      {"name": "GF", "type": "Attack", "description": "Gear Flat - Ataque com grip"},
+      {"name": "GP", "type": "Attack", "description": "Gear Point - Ataque com controle"},
+      {"name": "K", "type": "Defense", "description": "Knife - Defesa com ângulo"}
+    ],
+    "A": [
+      {"name": "B", "type": "Defense", "description": "Ball - Defesa padrão"},
+      {"name": "F", "type": "Attack", "description": "Flat - Ataque padrão"},
+      {"name": "P", "type": "Stamina", "description": "Point - Stamina com ponta"},
+      {"name": "H", "type": "Defense", "description": "Hammer - Defesa com peso"}
+    ]
+  },
+  "winningCombos": [
+    {
+      "name": "Wizard Rod 9-60 GF",
+      "blade": "Wizard Rod",
+      "ratchet": "9-60",
+      "bit": "GF",
+      "tier": "S",
+      "type": "Balanced",
+      "strengths": ["Versátil", "Excelente stamina", "Bom ataque"],
+      "weaknesses": ["Nenhuma significativa"],
+      "description": "Combo clássico e dominante, vence múltiplos tipos"
+    },
+    {
+      "name": "Shark Scale 3-60 LR",
+      "blade": "Shark Scale",
+      "ratchet": "3-60",
+      "bit": "LR",
+      "tier": "S",
+      "type": "Attack",
+      "strengths": ["Ataque extremo", "Stamina híbrida", "Lift power"],
+      "weaknesses": ["Vulnerável a defesa bem posicionada"],
+      "description": "Ataque puro com stamina, define o meta atual"
+    },
+    {
+      "name": "Soar Phoenix 9-60 GF",
+      "blade": "Soar Phoenix",
+      "ratchet": "9-60",
+      "bit": "GF",
+      "tier": "S",
+      "type": "Balanced",
+      "strengths": ["Ataque consistente", "Excelente stamina"],
+      "weaknesses": ["Menos versátil que Wizard Rod"],
+      "description": "Clássico competitivo, excelente para iniciantes avançados"
+    },
+    {
+      "name": "Cobalt Dragoon 7-60 B",
+      "blade": "Cobalt Dragoon",
+      "ratchet": "7-60",
+      "bit": "B",
+      "tier": "S",
+      "type": "Defense",
+      "strengths": ["Defesa superior", "Ataque respeitável", "Versátil"],
+      "weaknesses": ["Menos agressivo que puros ataques"],
+      "description": "Defesa com ataque, muito versátil"
+    },
+    {
+      "name": "Hover Wyvern 9-60 GF",
+      "blade": "Hover Wyvern",
+      "ratchet": "9-60",
+      "bit": "GF",
+      "tier": "A",
+      "type": "Defense",
+      "strengths": ["Defesa com stamina", "Estável"],
+      "weaknesses": ["Menos agressivo"],
+      "description": "Defesa defensiva com stamina"
+    },
+    {
+      "name": "Aero Pegasus 3-60 LR",
+      "blade": "Aero Pegasus",
+      "ratchet": "3-60",
+      "bit": "LR",
+      "tier": "A",
+      "type": "Attack",
+      "strengths": ["Ataque puro", "Versátil"],
+      "weaknesses": ["Vulnerável a defesa"],
+      "description": "Ataque off-balance, muito agressivo"
+    },
+    {
+      "name": "Pegasus Blast 1-60 LO",
+      "blade": "Pegasus Blast",
+      "ratchet": "1-60",
+      "bit": "LO",
+      "tier": "A",
+      "type": "Attack",
+      "strengths": ["Ataque extremo", "Off-balance máximo"],
+      "weaknesses": ["Muito instável"],
+      "description": "Ataque off-balance extremo, muito agressivo"
+    },
+    {
+      "name": "Emperor Might 7-60 B",
+      "blade": "Emperor Might",
+      "ratchet": "7-60",
+      "bit": "B",
+      "tier": "A",
+      "type": "Balanced",
+      "strengths": ["Balanceado", "Defesa forte"],
+      "weaknesses": ["Menos especializado"],
+      "description": "Balanceado com defesa forte"
+    }
+  ],
+  "metaAnalysis": {
+    "currentTrend": "Meta lenta e equilibrada",
+    "dominantTypes": ["Stamina", "Balanced", "Defense"],
+    "emergingTrend": "Triple-Attack decks",
+    "deckFormats": {
+      "2Attack_1Stamina": {
+        "winRate": "55-60%",
+        "description": "Formato dominante, 2 ataques + 1 stamina"
+      },
+      "3Attack": {
+        "winRate": "48-52%",
+        "description": "Em crescimento, 3 ataques puros"
+      },
+      "1Attack_2Stamina": {
+        "winRate": "35-40%",
+        "description": "Em declínio, muito lento"
+      }
+    },
+    "keyInsights": [
+      "Shark Scale revolucionou o meta de ataque",
+      "Pegasus Blast introduziu novo nível de agressão",
+      "Meta favorece blades versáteis sobre especializadas",
+      "Ratchets de altura alta (80mm) ganham importância",
+      "Bits de stamina (LR, R) dominam o meta"
+    ]
+  }
+}

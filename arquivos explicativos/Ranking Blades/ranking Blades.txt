@@ -1,0 +1,47 @@
+Além disso, eu acho super pertinente que o sistema seja capaz de analisar a combinação, não só levando em conta a pontuação das peças individualmente, mas também levando em conta o metagame de beyblade X. Atualmente, existem peças de beyblade que tem mais sucesso do que outras, criando assim um metagame, e essas peças são ranqueadas pela comunidade ao redor do mundo, e esses rankings são bem relativos, mas é possível analisar que há padrões de peças que predominantemente ocupam posições altas em rankings, em relação a outras. No caso, esses rankings são de imagens, e para poupar seu processamento lógico, irei descrever esses rankings em formato de texto. Mas gostaria que você também fizesse uma pesquisa sobre outros rankings para tornar a base de dados mais complexa. O objetivo é melhorar a analise de combinação, e dicas para o usuário, com base na combinação que ele deseja, e como ela seria ranqueada em relação ao metagame. Vale considerar que, o metagame é definido por combinações de peças, portanto, uma blade pode ser metagame, mas com um ratchet e um bit que não potencializa as qualidades da blade, ela não necessariamente vai ser "free win". O ranking que eu vou te passar, é apenas das blades, ele não especifica ratchet e bits. E por isso gostaria que você fizesse uma pesquisa para aprofundar a questão do metagame sobre combinação de peças, e não apenas o ranking de blades(laminas).
+
+ranking 1: (esse ranking classifica apenas as blades. O ranking vai de A até C, e no final tem uns adendos.): Ranking A: Wizard Rod, Soar Phoenix, Silver Wolf, Cobalt Dragoon, Tyrano Beat, Aero Pegasus, Hover Wyvern, Shark Scale, Pegasus Blast, Emperor Might.
+Ranking B: Dran Buster, Impact Drake, Cobalt Drake, Golem Rock, Knight Mail, Samurai Saber, Roar Tyrano, Scorpio Spear, Whale Wave, Sting Unicorn, Keel Shark, Samurai Caliber, Sol Eclipse(Smash mode), Wolf Hunt, Clock Mirage.
+
+O ranking C é dividido entre "High" e "Low".
+High:
+Ranking C: (BX): Sword Dran, Dagger Dran, Scythe Incendio(Hell Scythe em ingles), Chain Incencio, Arrow Wizard, Leon Claw, Phoenix Feather, Weiss Tiger, Crimson Garuda, Talon Ptera, Black Shell, Goat Tackle, Lightning L-Drago(Upper mode(adaptação para Beyblade X)), Lightning L-drago(Barrage  mode(adaptação para Beyblade X)), Shelter Drake, Samurai Steel, Tricera Press, 
+ranking C: (UX): Hells Hammer, Leon Crest, Phoenix Rudder.
+Ranking C: (CX): Brave Dran(Courage Dran em ingles), Arc Incencio, Arc Wizard, Fox Brush, Dark Perseu, Cerberus Flame, Fort Hornet, Reaper Incendio
+Low:
+Ranking C: (BX): Dranzer(adaptação para Beyblade X), Drigger (adaptação para Beyblade X), Draciel (adaptação para Beyblade X), Dragoon (adaptação para Beyblade X), Rock Leon (adaptação para Beyblade X), Storm Pegasus (adaptação para Beyblade X), Gale Wyvern, Rhino Horn, Sphinx Cowl, Shark Gill, Victory Valkirie (adaptação para Beyblade X), Knight Helm, Knight Shield.
+Ranking C: (UX): Shinobi Shadow, Ghost Circle
+
+
+Raking 2: Esse Ranking, diferente do primeiro, Vai de X, S+, S, A+ até D. Esse ranking também Raqueia apenas Blades.
+Ranking X: Shark Scale, Wizard Rod, Aero Pegasus, Pegasus Blast
+S+: Clock Mirage, Soar Phoenix, Silver Wolf, Emperor Might, Hover Wyvern, Cobalt Dragoon
+S: Scorpio Spear, Sol Eclipse(Smash Mode), Dran Buster, Impact Drake, Tyrano Beat
+A+: Samurai Saber, Samurai Caliber, Whale Wave, Knight Mail, Cerberus Flame, Whale Flame
+A: Arc Wizard, Brave Dran, Keel Shark, Cobalt Drake, Roar Tyrano, Wolf Hunt
+B+: Tricera Press, Fox Brush, Reaper Incencio, Reaper Rhino, Dark Perseu, Golem Rock
+B: Scythe Incencio, Knight Shield, Phoenix Rudder, Sword Dran, Chain Incendio
+C+: Sting Unicorn, Leon Crest, Dagger Dran, Crimson Garuda, Hells Hammer, 
+C: Arrow Wizard, Shelter Drake, Gill Shark, Ghost Circle, Weiss Tiger, Viper Tail
+D+: Dark Shell, Phoenix Feather, Gale Wyvern, Talon Ptera, Goat Tackle, Knight Helm
+D: Spinx Cowl, Samurai Steel, Leon Claw, Shinobi Shadow, Rhino Horn, 
+
+Ranking 3: Esse ranking tem uma observação de um jogador de Beyblade, que irei adicionar após o Ranking 3.
+S: Wizard Rod, Cobalt Dragoon, Soar Phoenix, Impact Drake, Aero Pegasus
+A: Tyrano Beat, Silver Wolf, Whale Wave, Dran Buster, Knight Mail, Samurai Saber
+B: Leon Crest, Keel Shark, Scythe Incencio, Sword Dran, Roar Tyrano, Dagger Dran
+C: Crimson Garuda, Weiss Tiger, Cobalt Drake, Sting Unicorn, Chain Incencio, Talon Ptera
+D: Hells Hammer, Leon Claw, Tusk Mammoth, Ghost Circle, Shinobi Shadow, Knight Helm, Arrow Wizard, Dark Shell
+F: Phoenix Rudder, Samurai Steel, Spinx Cowl, Rhino Horn
+
+Observação do jogador de Beyblade sobre o ranking 3: Esta é uma boa lista, mas acho que poderia ter algumas alterações:
+
+Apesar do enorme poder, o Impact Drake consome resistência muito rápido para estar no nível S.
+
+Embora o Beat seja mais fraco que o Phoenix, é uma lâmina muito versátil, tornando difícil se preparar para ele. A diferença de poder não é suficiente para separá-los por um nível.
+
+Com a quantidade de atacantes de alto nível, o Silverwolf os lida melhor (como a opção de defesa) do que o Rod com resistência comparável. Isso foi visto no campeonato asiático mais do que no Phoenix.
+
+Por fim, mova para baixo Espada e Adaga por um nível, aumente Corrente e Unicórnio em vez disso. A Adaga está obsoleta como anti-ataque porque não é boa para ataque, enquanto existem estratégias muito melhores contra tipos de ataque e a Espada não é poderosa o suficiente para estar na mesma categoria que o Tubarão. Enquanto Unicórnio e Corrente são inerentemente mais fracos que Foice em resistência, eles são um ótimo recurso defensivo onde o bey adversário sofre mais recuo do que eles. Não vejo por que deveríamos separar Corrente/Ferrão de Crista e Foice.
+
+
