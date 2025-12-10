@@ -1,0 +1,314 @@
+{
+  "blades": [
+    {
+      "name": "Arc Wizard",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 20, "defense": 20, "stamina": 60 },
+      "description": "Lâmina principal CX. Forte força centrífuga para resistência."
+    },
+    {
+      "name": "Arrow Wizard",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 15, "defense": 30, "stamina": 55 },
+      "description": "Lâmina BX. Tipo Estamina/Defesa."
+    },
+    {
+      "name": "Claw Leon",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 40, "defense": 40, "stamina": 20 },
+      "description": "Lâmina BX. Tipo Equilíbrio."
+    },
+    {
+      "name": "Cobalt Dragoon",
+      "type": "BX",
+      "spin": "Left",
+      "stats": { "attack": 60, "defense": 15, "stamina": 25 },
+      "description": "Lâmina BX. Tipo Ataque. Rotação Esquerda."
+    },
+    {
+      "name": "Courage",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 60, "defense": 20, "stamina": 20 },
+      "description": "Lâmina principal CX. Grande força descendente para ataque."
+    },
+    {
+      "name": "Dark",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 20, "defense": 60, "stamina": 20 },
+      "description": "Lâmina principal CX. Lâminas onduladas para dispersar ataques."
+    },
+    {
+      "name": "Helm Knight",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 20, "defense": 55, "stamina": 25 },
+      "description": "Lâmina BX. Tipo Defesa."
+    },
+    {
+      "name": "Horn Rhino",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 20, "defense": 50, "stamina": 30 },
+      "description": "Lâmina BX. Tipo Defesa."
+    },
+    {
+      "name": "Hunt",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 25, "defense": 30, "stamina": 55 },
+      "description": "Lâmina principal CX. Peso concentrado na parte externa para Estamina/Defesa."
+    },
+    {
+      "name": "Keel Shark",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 60, "defense": 25, "stamina": 15 },
+      "description": "Lâmina BX. Tipo Ataque."
+    },
+    {
+      "name": "Reaper",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 40, "defense": 20, "stamina": 40 },
+      "description": "Lâmina principal CX. Golpes rápidos e esmagadores. Tipo Equilíbrio."
+    },
+    {
+      "name": "Roar Tyranno",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 60, "defense": 28, "stamina": 12 },
+      "description": "Lâmina BX. Tipo Ataque."
+    },
+    {
+      "name": "Scythe Incendio",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 30, "defense": 35, "stamina": 35 },
+      "description": "Lâmina BX. Tipo Equilíbrio."
+    },
+    {
+      "name": "Soar Phoenix",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 65, "defense": 30, "stamina": 20 },
+      "description": "Lâmina BX. Tipo Ataque."
+    },
+    {
+      "name": "Sting Unicorn",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 35, "defense": 35, "stamina": 30 },
+      "description": "Lâmina BX. Tipo Equilíbrio."
+    },
+    {
+      "name": "Sword Dran",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 55, "defense": 25, "stamina": 20 },
+      "description": "Lâmina BX. Tipo Ataque."
+    },
+    {
+      "name": "Talon Ptera",
+      "type": "BX",
+      "spin": "Right",
+      "stats": { "attack": 27, "defense": 23, "stamina": 50 },
+      "description": "Lâmina BX. Tipo Estamina."
+    },
+    {
+      "name": "Pegasus Blast",
+      "type": "CX",
+      "spin": "Right",
+      "stats": { "attack": 75, "defense": 20, "stamina": 20 },
+      "description": "Lâmina principal CX. Ataque de Reaceleração. Tipo Ataque."
+    }
+  ],
+  "ratchets": [
+    {
+      "name": "2-60",
+      "height": 60,
+      "stats": { "attack": 16, "defense": 8, "stamina": 6 },
+      "description": "Altura baixa (60). 2 pontos de contato. Bom para ataque."
+    },
+    {
+      "name": "3-60",
+      "height": 60,
+      "stats": { "attack": 15, "defense": 9, "stamina": 6 },
+      "description": "Altura baixa (60). 3 pontos de contato. Equilíbrio entre ataque e defesa."
+    },
+    {
+      "name": "3-80",
+      "height": 80,
+      "stats": { "attack": 15, "defense": 7, "stamina": 8 },
+      "description": "Altura alta (80). 3 pontos de contato. Bom para 'out-spin' ou defesa alta."
+    },
+    {
+      "name": "4-55",
+      "height": 55,
+      "stats": { "attack": 7, "defense": 11, "stamina": 12 },
+      "description": "Altura muito baixa (55). 4 pontos de contato. Foco em defesa e estamina."
+    },
+    {
+      "name": "4-60",
+      "height": 60,
+      "stats": { "attack": 11, "defense": 13, "stamina": 6 },
+      "description": "Altura baixa (60). 4 pontos de contato. Foco em defesa."
+    },
+    {
+      "name": "4-70",
+      "height": 70,
+      "stats": { "attack": 11, "defense": 12, "stamina": 7 },
+      "description": "Altura média (70). 4 pontos de contato. Equilíbrio geral."
+    },
+    {
+      "name": "4-80",
+      "height": 80,
+      "stats": { "attack": 11, "defense": 11, "stamina": 8 },
+      "description": "Altura alta (80). 4 pontos de contato. Equilíbrio geral em altura alta."
+    },
+    {
+      "name": "5-60",
+      "height": 60,
+      "stats": { "attack": 12, "defense": 9, "stamina": 9 },
+      "description": "Altura baixa (60). 5 pontos de contato. Bom equilíbrio."
+    },
+    {
+      "name": "6-60",
+      "height": 60,
+      "stats": { "attack": 14, "defense": 8, "stamina": 8 },
+      "description": "Altura baixa (60). 6 pontos de contato. Bom para ataque e resistência a burst."
+    },
+    {
+      "name": "6-80",
+      "height": 80,
+      "stats": { "attack": 14, "defense": 6, "stamina": 10 },
+      "description": "Altura alta (80). 6 pontos de contato. Bom para ataque e resistência a burst em altura alta."
+    },
+    {
+      "name": "9-60",
+      "height": 60,
+      "stats": { "attack": 13, "defense": 10, "stamina": 7 },
+      "description": "Altura baixa (60). 9 pontos de contato. Alta resistência a burst."
+    },
+    {
+      "name": "0-60",
+      "height": 60,
+      "stats": { "attack": 3, "defense": 14, "stamina": 13 },
+      "description": "Altura baixa (60). 0 pontos de contato. Foco em defesa e estamina."
+    }
+  ],
+  "bits": [
+    {
+      "name": "LO",
+      "type": "Stamina",
+      "stats": { "attack": 5, "defense": 25, "stamina": 55, "dash": 15, "burst": 30 },
+      "description": "Low Orb. Ponta de estamina com baixa fricção e estabilidade."
+    },
+    {
+      "name": "B",
+      "type": "Defense",
+      "stats": { "attack": 25, "defense": 50, "stamina": 30, "dash": 10, "burst": 30 },
+      "description": "Ball. Ponta esférica para defesa e estabilidade."
+    },
+    {
+      "name": "P",
+      "type": "Balance",
+      "stats": { "attack": 25, "defense": 25, "stamina": 25, "dash": 25, "burst": 80 },
+      "description": "Point. Ponta pontiaguda para equilíbrio e resistência a burst."
+    },
+    {
+      "name": "C",
+      "type": "Attack",
+      "stats": { "attack": 40, "defense": 5, "stamina": 10, "dash": 45, "burst": 80 },
+      "description": "Cyclone. Ponta de ataque com alta propulsão e resistência a burst."
+    },
+    {
+      "name": "V",
+      "type": "Attack",
+      "stats": { "attack": 45, "defense": 10, "stamina": 5, "dash": 40, "burst": 80 },
+      "description": "Viper. Ponta de ataque com alta propulsão e resistência a burst."
+    },
+    {
+      "name": "W",
+      "type": "Defense",
+      "stats": { "attack": 5, "defense": 55, "stamina": 30, "dash": 10, "burst": 30 },
+      "description": "Wave. Ponta de defesa com alta resistência."
+    },
+    {
+      "name": "N",
+      "type": "Defense",
+      "stats": { "attack": 10, "defense": 50, "stamina": 30, "dash": 10, "burst": 30 },
+      "description": "Needle. Ponta fina para defesa e estamina."
+    },
+    {
+      "name": "S",
+      "type": "Defense",
+      "stats": { "attack": 10, "defense": 45, "stamina": 35, "dash": 10, "burst": 30 },
+      "description": "Shield. Ponta de defesa com boa estamina."
+    },
+    {
+      "name": "LF",
+      "type": "Attack",
+      "stats": { "attack": 45, "defense": 5, "stamina": 10, "dash": 40, "burst": 80 },
+      "description": "Low Flat. Ponta plana baixa para ataque agressivo e resistência a burst."
+    },
+    {
+      "name": "K",
+      "type": "Balance",
+      "stats": { "attack": 35, "defense": 25, "stamina": 15, "dash": 25, "burst": 80 },
+      "description": "Kick. Ponta de equilíbrio com bom ataque e resistência a burst."
+    },
+    {
+      "name": "GF",
+      "type": "Attack",
+      "stats": { "attack": 50, "defense": 5, "stamina": 5, "dash": 40, "burst": 80 },
+      "description": "Gear Flat. Ponta plana com engrenagens para ataque e resistência a burst."
+    },
+    {
+      "name": "GP",
+      "type": "Balance",
+      "stats": { "attack": 30, "defense": 25, "stamina": 15, "dash": 30, "burst": 80 },
+      "description": "Gear Point. Ponta pontiaguda com engrenagens para equilíbrio e resistência a burst."
+    },
+    {
+      "name": "T",
+      "type": "Balance",
+      "stats": { "attack": 35, "defense": 20, "stamina": 20, "dash": 25, "burst": 80 },
+      "description": "Taper. Ponta cônica para equilíbrio e resistência a burst."
+    },
+    {
+      "name": "DB",
+      "type": "Stamina",
+      "stats": { "attack": 15, "defense": 20, "stamina": 55, "dash": 40, "burst": 30 },
+      "description": "Disk Ball. Ponta esférica com anel para alta estamina e estabilidade."
+    },
+    {
+      "name": "Turbo",
+      "type": "Attack/Stamina",
+      "stats": { "attack": 75, "defense": 20, "stamina": 20, "dash": 45, "burst": 65 },
+      "description": "Ratchet Integrado. Ponta que se transforma de fina (Estamina) para grossa (Ataque) com a queda de rotação."
+    }
+  ],
+  "cx_parts": {
+    "lock_chips": [
+      { "name": "Wizard", "description": "Verrouille a Blade CX Wizard." },
+      { "name": "Dran", "description": "Verrouille a Blade CX Dran." },
+      { "name": "Perseus", "description": "Verrouille a Blade CX Perseus." },
+      { "name": "Incendio", "description": "Verrouille a Blade CX Incendio." },
+      { "name": "Wolf", "description": "Verrouille a Blade CX Wolf." },
+      { "name": "Pegasus", "description": "Verrouille a Blade CX Pegasus." }
+    ],
+    "assist_blades": [
+      { "name": "R", "description": "Auxiliar. Aerodinâmica para suporte." },
+      { "name": "S", "description": "Auxiliar. Baixo centro de gravidade." },
+      { "name": "B", "description": "Auxiliar. Amortecedor de impactos." },
+      { "name": "T", "description": "Auxiliar. Melhora a resistência ou o ataque." },
+      { "name": "Free", "description": "Auxiliar. Anel externo de rotação livre para desviar ataques e manter estamina." },
+      { "name": "Assault", "description": "Auxiliar. Três lâminas grossas para forte repulsão." }
+    ]
+  }
+}
